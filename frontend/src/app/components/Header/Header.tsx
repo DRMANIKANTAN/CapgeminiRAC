@@ -29,8 +29,8 @@ export default function Header({ onToggleSidebar, activePanel }: HeaderProps) {
         <Image
           src="/capgeminilogo.jpg"
           alt="Capgemini Logo"
-          width={128}
-          height={24}
+          width={548}
+          height={34}
         />
         <span className="text-lg font-semibold text-white">AI Powerd Use Case - GTC Paris</span>
       </div>
